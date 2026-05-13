@@ -1,4 +1,6 @@
-## Hi there 👋
+Hello I'm Aeriff, a souls-like games fan. I enjoy creating game mods, developing ct tables (Only for personal use, I never use ct in pvp), and practicing reverse engineering.
+
+My technical stack includes C, Java, C#, and Assembly.
 
 <!--
 **AeriffY/AeriffY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
